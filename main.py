@@ -1,4 +1,4 @@
-# Import smtplib for the actual sending function
+#begin with importing librabry of need
 import smtplib
 
 # Import the email modules we'll need
